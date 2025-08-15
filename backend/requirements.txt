@@ -6,3 +6,5 @@ python-dotenv
 sqlalchemy
 uvicorn
 psycopg2-binary
+langchain-groq
+requests
